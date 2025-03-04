@@ -40,34 +40,34 @@ function clickCards(boton) {
   position = parseInt(boton.getAttribute("pos"));
 
   if (position == 0) {
-    zero.src = "/img/black/blackAgus.jpg";
+    zero.src = "img/black/blackAgus.jpg";
   } else if (position == 1) {
     one.src = "img/black/blackAldi.jpg";
   } else if (position == 2) {
     two.src = "/QUIEN-ES-QUIEN/img/black/blackBri.jpg";
   } else if (position == 3) {
-    three.src = "/QUIEN-ES-QUIEN/img/black/blackCele.jpg";
+    three.src = "img/black/blackCele.jpg";
   } else if (position == 4) {
-    four.src = "/QUIEN-ES-QUIEN/img/black/blackCoppi.jpg";
+    four.src = "img/black/blackCoppi.jpg";
   } else if (position == 5) {
-    five.src = "/QUIEN-ES-QUIEN/img/black/blackCroque.jpg";
+    five.src = "img/black/blackCroque.jpg";
   } else if (position == 6) {
-    six.src = "/QUIEN-ES-QUIEN/img/black/blackEmi.jpg";
+    six.src = "img/black/blackEmi.jpg";
   } else if (position == 7) {
-    seven.src = "/QUIEN-ES-QUIEN/img/black/blackGuada.jpg";
+    seven.src = "img/black/blackGuada.jpg";
   } else if (position == 8) {
-    eight.src = "/QUIEN-ES-QUIEN/img/black/blackLuchi.jpg";
+    eight.src = "img/black/blackLuchi.jpg";
   } else if (position == 9) {
-    nine.src = "/QUIEN-ES-QUIEN/img/black/blackLuna.jpg";
+    nine.src = "img/black/blackLuna.jpg";
   } else if (position == 10) {
-    ten.src = "/QUIEN-ES-QUIEN/img/black/blackMale.jpg";
+    ten.src = "img/black/blackMale.jpg";
   } else if (position == 11) {
-    eleven.src = "/QUIEN-ES-QUIEN/img/black/blackMica.jpg";
+    eleven.src = "img/black/blackMica.jpg";
   } else if (position == 12) {
-    twelve.src = "/QUIEN-ES-QUIEN/img/black/blackMonti.jpg";
+    twelve.src = "img/black/blackMonti.jpg";
   } else if (position == 13) {
-    thirteen.src = "/QUIEN-ES-QUIEN/img/black/blackNati.jpg";
+    thirteen.src = "img/black/blackNati.jpg";
   } else if (position == 14) {
-    fourteen.src = "/QUIEN-ES-QUIEN/img/black/blackRosa.jpg";
+    fourteen.src = "img/black/blackRosa.jpg";
   }
 }
