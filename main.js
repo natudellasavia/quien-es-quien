@@ -44,7 +44,7 @@ function clickCards(boton) {
   } else if (position == 1) {
     one.src = "img/black/blackAldi.jpg";
   } else if (position == 2) {
-    two.src = "/QUIEN-ES-QUIEN/img/black/blackBri.jpg";
+    two.src = "img/black/blackBri.jpg";
   } else if (position == 3) {
     three.src = "img/black/blackCele.jpg";
   } else if (position == 4) {
