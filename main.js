@@ -40,9 +40,9 @@ function clickCards(boton) {
   position = parseInt(boton.getAttribute("pos"));
 
   if (position == 0) {
-    zero.src = "/QUIEN-ES-QUIEN/img/black/blackAgus.jpg";
+    zero.src = "img/black/blackAgus.jpg";
   } else if (position == 1) {
-    one.src = "/QUIEN-ES-QUIEN/img/black/blackAldi.jpg";
+    one.src = "img/black/blackAldi.jpg";
   } else if (position == 2) {
     two.src = "/QUIEN-ES-QUIEN/img/black/blackBri.jpg";
   } else if (position == 3) {
