@@ -1,0 +1,31 @@
+body{
+    background-color: #f2efde;
+}
+
+main{
+    max-width: 80%;
+    margin: 0 auto;
+    font-family: Arial;
+    text-align: center;
+}
+
+section{
+    margin-top: 20px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 90px 90px 90px;
+    grid-gap: 8px;
+    grid-auto-rows: minmax(105px, auto);
+    justify-content: center;
+  }
+
+.boton{
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    width: 90px;
+    border-radius: 15px;
+    color: white;
+    border: 3px solid #241e38; /* Saca el borde por defecto del botón */
+}
